@@ -1,5 +1,4 @@
 //FUNCIONES
-
 package main
 
 import "fmt"
